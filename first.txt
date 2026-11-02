@@ -1,0 +1,16 @@
+Name - Vinni_bh4i
+
+
+Class - 1st year
+
+
+University - Rishihood University(Newton Shool of Technology)
+
+
+Hobbies - coding,swimming
+
+
+Skills - C++, Python, SQL
+
+
+What I want? - One first.html file which has html, css and js it should have the whole portfolio
